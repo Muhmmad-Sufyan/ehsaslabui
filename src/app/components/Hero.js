@@ -37,12 +37,12 @@ export default function Hero() {
           <h1 className="font-bold text-4xl sm:text-5xl lg:text-6xl xl:text-7xl text-[#001839] mb-7">
             Master Design & Build Career with
           </h1>
-          <p className="relative items-center w-50 h-10 lg:w-60 flex lg:h-12 xl:w-70 xl:h-15 border-2 border-[#3D9C02] mb-10">
+          <p className="relative inline-block w-50 h-10 lg:w-60  lg:h-12 xl:w-70  py-2 xl:h-15 border border-[#3D9C02] mb-10">
             <span className="absolute w-2 h-2 bg-[#3D9C02] -top-1 -left-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -top-1 -right-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -bottom-1 -left-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -bottom-1 -right-1"></span>
-            <span id="typewriter" className="text-[#3D9C02] font-bold text-[26px] sm:text-3xl lg:text-7xl transition-all duration-700 ease-in-out">
+            <span id="typewriter" className="text-[#3D9C02] font-bold text-[26px] sm:text-3xl lg:text-4xl transition-all duration-700 ease-in-out">
               {text}
             </span>
             <span className="cursor"></span>
