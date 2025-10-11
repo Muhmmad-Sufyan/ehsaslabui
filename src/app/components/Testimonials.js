@@ -9,7 +9,7 @@ export default function Testimonials() {
     {
       bgColor: "#C7FEA6",
       starColor: "green",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Saif",
       role: "Graphic Designer",
       image: "assets/being02.jpg",
@@ -18,7 +18,7 @@ export default function Testimonials() {
     {
       bgColor: "#E2DAFF",
       starColor: "blue",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Rabia Kasur",
       role: "Graphic Designer",
       image: "assets/girlPic.svg",
@@ -27,7 +27,7 @@ export default function Testimonials() {
     {
       bgColor: "#C7FEA6",
       starColor: "green",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Mira Khan",
       role: "Graphic Designer",
       image: "assets/being04.jpg",
@@ -36,7 +36,7 @@ export default function Testimonials() {
     {
       bgColor: "#E2DAFF",
       starColor: "blue",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers comprehensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Kiran Shahzadi",
       role: "Graphic Designer",
       image: "assets/being01.jpg",
@@ -45,7 +45,7 @@ export default function Testimonials() {
     {
       bgColor: "#C7FEA6",
       starColor: "green",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers compre-hensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers compre-hensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Ali Ahmed",
       role: "Web Developer",
       image: "assets/being03.jpg",
@@ -54,7 +54,7 @@ export default function Testimonials() {
     {
       bgColor: "#E2DAFF",
       starColor: "blue",
-      comment: "I'm thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers compre-hensive training in graphic designing and web development. I've had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
+      comment: "I&apos;m thrilled to be a part of Ehsas Lab, a fantastic technical computer lab that offers compre-hensive training in graphic designing and web development. I&apos;ve had the privilege of learning from two exceptional tutors: Sir Hassam, who expertly guides us in graphic designing.",
       name: "Sara Khan",
       role: "Full Stack Developer",
       image: "assets/being03.jpg",

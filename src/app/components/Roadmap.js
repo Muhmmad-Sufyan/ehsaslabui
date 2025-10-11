@@ -14,7 +14,7 @@ export default function Roadmap() {
                     <div className="flex flex-col justify-center items-center lg:items-start lg:pl-10">
                         <p className="sm:text-lg xl:text-[22px] text-[#00000099]">Complete Roadmap</p>
                         <h4 className="font-bold text-3xl sm:text-4xl xl:text-5xl text-[#000C40] text-center lg:text-start">
-                            Graphic Design <br /> Isn't Just logo. <br /> It's a System
+                            Graphic Design <br /> Isn&apos;t Just logo. <br /> It&apos;s a System
                         </h4>
                         <p className="sm:text-lg xl:text-[22px] text-[#00000099] sm:w-4/5 lg:w-3/5 mt-3 text-center lg:text-start">
                             Learn the underground two-part system real designers use to lead bigger brands and land bigger clients.
@@ -80,7 +80,7 @@ export default function Roadmap() {
 
                             <div className="mt-6 text-center space-y-3">
                                 <h4 className="font-bold text-[#001839] text-2xl bg-gradient-to-r from-[#3D9C02] to-[#001839] bg-clip-text text-transparent">
-                                    Designer's Career Journey
+                                    Designer&apos;s Career Journey
                                 </h4>
                                 <p className="text-[#00000099] text-base leading-relaxed">
                                     Real stories from successful designers who transformed their careers

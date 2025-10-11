@@ -37,24 +37,24 @@ export default function Hero() {
           <h1 className="font-bold text-4xl sm:text-5xl lg:text-6xl xl:text-7xl text-[#001839] mb-7">
             Master Design & Build Career with
           </h1>
-          <p className="relative inline-block w-50 h-10 lg:w-60 lg:h-12 xl:w-70 xl:h-15 border-2 border-[#3D9C02] mb-10">
+          <p className="relative items-center w-50 h-10 lg:w-60 flex lg:h-12 xl:w-70 xl:h-15 border-2 border-[#3D9C02] mb-10">
             <span className="absolute w-2 h-2 bg-[#3D9C02] -top-1 -left-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -top-1 -right-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -bottom-1 -left-1"></span>
             <span className="absolute w-2 h-2 bg-[#3D9C02] -bottom-1 -right-1"></span>
-            <span id="typewriter" className="text-[#3D9C02] font-bold text-[26px] sm:text-3xl lg:text-4xl transition-all duration-700 ease-in-out">
+            <span id="typewriter" className="text-[#3D9C02] font-bold text-[26px] sm:text-3xl lg:text-7xl transition-all duration-700 ease-in-out">
               {text}
             </span>
             <span className="cursor"></span>
           </p>
-          <div className="flex box-center border rounded-full py-2 w-60 xl:w-65 mx-auto relative mb-3">
+          <div className="flex box-center border  rounded-full py-2 w-60 xl:w-65 mx-auto relative mb-3">
             <p className="flex box-center">
               <img className="absolute left-2 size-5 rounded-full shadow-2xl" src="/assets/being01.jpg" alt="Community member" />
               <img className="absolute left-6 size-5 rounded-full shadow-2xl" src="/assets/being02.jpg" alt="Community member" />
               <img className="absolute left-10 size-5 rounded-full shadow-2xl" src="/assets/being03.jpg" alt="Community member" />
               <img className="absolute left-14 size-5 rounded-full shadow-2xl" src="/assets/being04.jpg" alt="Community member" />
             </p>
-            <p className="text-[10px] xl:text-xs ml-17">300+ designer's community</p>
+            <p className="text-[10px] xl:text-xs ml-17">300+ designer&apos;s community</p>
           </div>
           <div className="w-[95%] sm:w-[82%] md:w-9/10 mx-auto mb-6">
             <p className="text-base sm:text-lg xl:text-[20px] leading-7">
